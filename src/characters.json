@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Kim",
+        "image": "../images/kim.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Khloe",
+        "image": "../images/khloe.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Kourtney",
+        "image": "../images/kourtney.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Kris",
+        "image": "../images/kris.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Kendall",
+        "image": "../images/kendall.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Kylie",
+        "image": "../images/kylie.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Scott",
+        "image": "../images/scott.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Kanye",
+        "image": "../images/kanye.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Caitlyn",
+        "image": "../images/Caitlyn.jpg"
+    },
+    {
+        "id": 10,
+        "name": "MJ",
+        "image": "../images/mj.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Corey",
+        "image": "../images/corey.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Santa Claus",
+        "image": "../images/santa.jpg"
+    }
+
+]
