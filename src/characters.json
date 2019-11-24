@@ -2,62 +2,62 @@
     {
         "id": 1,
         "name": "Kim",
-        "image": "../images/kim.jpg"
+        "image": "https://nyppagesix.files.wordpress.com/2019/11/kim-kardashian-wsj-innovator.jpg?quality=90&strip=all&w=1236&h=820&crop=1"
     },
     {
         "id": 2,
         "name": "Khloe",
-        "image": "../images/khloe.jpg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKWQbbobkJpRRmlefTEtb3uuc_vXLbdfZHXPqirOvKCGOT3TxV&s"
     },
     {
         "id": 3,
         "name": "Kourtney",
-        "image": "../images/kourtney.jpg"
+        "image": "https://d.newsweek.com/en/full/1056924/kourtney-kardashians-feud-kim-kardashian-west.png"
     },
     {
         "id": 4,
         "name": "Kris",
-        "image": "../images/kris.jpg"
+        "image": "https://www.cheatsheet.com/wp-content/uploads/2019/11/kris-jenner-2.jpg"
     },
     {
         "id": 5,
         "name": "Kendall",
-        "image": "../images/kendall.jpg"
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/kendall-jenner-attends-the-2018-cfda-fashion-awards-at-news-photo-967440250-1552329687.jpg?crop=1.00xw:0.667xh;0,0.0988xh&resize=480:*"
     },
     {
         "id": 6,
         "name": "Kylie",
-        "image": "../images/kylie.jpg"
+        "image": "https://pmcfootwearnews.files.wordpress.com/2019/09/kylie-jenner-00.jpg?w=700&h=437&crop=1"
     },
     {
         "id": 7,
         "name": "Scott",
-        "image": "../images/scott.jpg"
+        "image": "https://thenypost.files.wordpress.com/2019/04/scott_disick.jpg?quality=90&strip=all&w=618&h=410&crop=1"
     },
     {
         "id": 8,
         "name": "Kanye",
-        "image": "../images/kanye.jpg"
+        "image": "https://www.biography.com/.image/t_share/MTU0OTkwNDUxOTQ5MDUzNDQ3/kanye-west-attends-the-christian-dior-show-as-part-of-the-paris-fashion-week-womenswear-fall-winter-2015-2016-on-march-6-2015-in-paris-france-photo-by-dominique-charriau-wireimage-square.jpg"
     },
     {
         "id": 9,
         "name": "Caitlyn",
-        "image": "../images/Caitlyn.jpg"
+        "image": "https://pbs.twimg.com/profile_images/631155150816591872/OJPX5Wiy_400x400.jpg"
     },
     {
         "id": 10,
         "name": "MJ",
-        "image": "../images/mj.jpg"
+        "image": "https://imgix.bustle.com/uploads/image/2017/12/29/c0c058a0-3490-4c55-adb2-03fefc66b842-screen-shot-2017-12-29-at-43154-pm.png?w=970&h=546&fit=crop&crop=faces&auto=format&q=70"
     },
     {
         "id": 11,
         "name": "Corey",
-        "image": "../images/corey.jpg"
+        "image": "https://vz.cnwimg.com/thumb-1200x/wp-content/uploads/2014/11/cg.jpg"
     },
     {
         "id": 12,
         "name": "Santa Claus",
-        "image": "../images/santa.jpg"
+        "image": "http://trail.pugetsound.edu/wp-content/uploads/2010/12/Jonathan_G_Meath_portrays_Santa_Claus.jpg"
     }
 
 ]

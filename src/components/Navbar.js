@@ -2,10 +2,10 @@ import React from "react";
 
 const style = {
     navStyle: {
-        // width: "100px",
+        width: "100px",
         textAlign: "center"
     }
-}
+};
 
 function Navbar (props) {
     return(
@@ -15,6 +15,6 @@ function Navbar (props) {
             <span style={style.navStyle}>Your Score: {props.score} | Top Score: {props.topScore}</span>
         </nav>
     );
-}
+};
 
 export default Navbar;
