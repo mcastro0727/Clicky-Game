@@ -2,7 +2,7 @@ import React from "react";
 
 const style = {
     navStyle: {
-        width: "100px",
+        width: "33%",
         textAlign: "center"
     }
 };
